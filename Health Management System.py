@@ -133,7 +133,7 @@ def Hammad():
                 print(f.read())
         else:
             print("Please enter a valid input (Lock, Retrieve")
-
+//tu pagal ha
 
 if name_user == 1:
     Harry()
